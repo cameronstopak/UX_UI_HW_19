@@ -33,6 +33,7 @@ width: 100%;
 }
 .navigation{
 display: flex;
+border: solid 25px yellow;
 
 }
 .ul{
@@ -143,7 +144,6 @@ color: #fff;
       background-color: #ff0;
       font-size: 24px;
       font-family: Oswald;
-    color: #000;
 }
 
 .workContainer{
@@ -171,6 +171,10 @@ h2{
 font-size: 64px;
 text-decoration: underline;
 font-family:Pacifico;
+border:solid 25px #000;
+border-radius: 10px;
+background-color: #fff;
+padding: 10px;
 }
 
 h3{
@@ -189,4 +193,5 @@ color: #ff0;
 h0{
   font-size: 36px;
   color: #ff0;
+  text-decoration: underline;
 }
