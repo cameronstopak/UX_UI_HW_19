@@ -1,6 +1,1 @@
-// Create a variable below
-var helloWorld = "Hello World!";
-
-// Console.log() your variable here.
-Console.log(helloWorld);
-
+$("About").click("About");
